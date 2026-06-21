@@ -61,5 +61,7 @@ https://github.com/code4sabae/website/issues
 
 [Settings]で、リポジトリ名を (自分のGitHubアカウント名).github.io に変更すると、そのアドレスでアクセスできます！短くてかっこいいですね！  
 
+2026/06/21
+
 github.io じゃなく、じぶんだけのドメイン（独自ドメイン）を設定したい方はこちら  
 https://github.com/code4sabae/website/blob/master/what_is_domain.md  
