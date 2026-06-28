@@ -63,4 +63,4 @@ https://github.com/code4sabae/website/issues
 
 github.io じゃなく、じぶんだけのドメイン（独自ドメイン）を設定したい方はこちら  
 https://github.com/code4sabae/website/blob/master/what_is_domain.md  
-2026/06/21
+2026/06/28
